@@ -1,0 +1,1 @@
+![Иллюстрация к проекту](https://github.com/mmarvakh/InterpolationTraining/blob/main/sin_x.png)
